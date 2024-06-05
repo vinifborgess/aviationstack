@@ -37,6 +37,10 @@ This architecture is designed/developed to be a robust and detailed product, sta
                 | Query SQLite DB, Print Results   |
                 +----------------------------------+
 ```
+# Tech stack:
+Language: Python;
+Softwares: AviationStackAPI, Figma, PowerBI.
+
 
 
 
