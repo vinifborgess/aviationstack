@@ -42,7 +42,17 @@ Language: Python;
 Softwares: AviationStackAPI, Figma, PowerBI.
 
 ## More about the data
-AviationStack texts.
+The following project uses the aviationstack API to access aviation data. Each aviationstack account is assigned a unique access key, known as the master key, which must be used to authenticate requests to the API. You can find your master key in your account dashboard. Each account is assigned only one master key.
+
+If you want to view customized data, enter your key, modify the code, and download the project to your local machine.
+
+To connect to the API, simply attach the access_key parameter to any valid API endpoint URL and set it to your master key. See the example below:
+
+´´´
+https://api.aviationstack.com/v1/flights?access_key=YOUR_ACCESS_KEY
+´´´
+
+Replace YOUR_ACCESS_KEY with your actual master key.
 
 ## Data Model
 AviationStack data model.
