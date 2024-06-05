@@ -48,9 +48,9 @@ If you want to view customized data, enter your key, modify the code, and downlo
 
 To connect to the API, simply attach the access_key parameter to any valid API endpoint URL and set it to your master key. See the example below:
 
-´´´
+```
 https://api.aviationstack.com/v1/flights?access_key=YOUR_ACCESS_KEY
-´´´
+```
 
 Replace YOUR_ACCESS_KEY with your actual master key.
 
