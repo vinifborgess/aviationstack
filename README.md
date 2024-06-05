@@ -41,6 +41,15 @@ This architecture is designed/developed to be a robust and detailed product, sta
 Language: Python;
 Softwares: AviationStackAPI, Figma, PowerBI.
 
+## More about the data
+AviationStack texts.
+
+## Data Model
+AviationStack data model.
+
+## Launch
+Insert here the PBIx Link.
+
 
 
 
