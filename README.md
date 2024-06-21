@@ -80,6 +80,24 @@ https://app.powerbi.com/reportEmbed?reportId=6db999f7-44e4-4c11-a815-7d9da75041c
 ## Patch Notes
 Work in progress.
 
+## Author
+[Vinícius Borges](https://github.com/vinifborgess).
+
+## Thanks!
+<h1 align="center">
+  <a
+    target="_blank"
+    href="https://mage.ai"
+  >
+    <img
+      align="center"
+      alt="Mage"
+      src="https://gifdb.com/images/high/flying-pixel-plane-clouds-vf6rfbxtsecs16hv.gif"
+      style="width:100%;"
+    />
+  </a>
+</h1>
+<p align="center">
 
 
 
