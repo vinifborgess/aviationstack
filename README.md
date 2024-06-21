@@ -37,6 +37,23 @@ This architecture is designed/developed to be a robust and detailed product, sta
                 | Query SQLite DB, Print Results   |
                 +----------------------------------+
 ```
+
+<h1 align="center">
+  <a
+    target="_blank"
+    href="https://mage.ai"
+  >
+    <img
+      align="center"
+      alt="Mage"
+      src="https://raw.githubusercontent.com/vinifborgess/aviationstack/main/project_architecture.png"
+      style="width:100%;"
+    />
+  </a>
+</h1>
+<p align="center">
+
+
 ## Tech stack:
 Language: Python;
 Softwares: AviationStackAPI, Figma, PowerBI.
