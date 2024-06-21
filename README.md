@@ -72,7 +72,7 @@ https://api.aviationstack.com/v1/flights?access_key=YOUR_ACCESS_KEY
 Replace YOUR_ACCESS_KEY with your actual master key.
 
 ## Data Model
-AviationStack data model.
+Work in progress.
 
 ## Launch Project
 https://app.powerbi.com/reportEmbed?reportId=6db999f7-44e4-4c11-a815-7d9da75041cd&autoAuth=true&ctid=461455b5-e6f3-430b-ab4c-9bc4818a4cd3
