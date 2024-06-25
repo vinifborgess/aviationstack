@@ -41,7 +41,7 @@ This architecture is designed/developed to be a robust and detailed product, sta
 <h1 align="center">
   <a
     target="_blank"
-    href="https://mage.ai"
+    href="https://raw.githubusercontent.com/vinifborgess/aviationstack/main/project_architecture.png"
   >
     <img
       align="center"
