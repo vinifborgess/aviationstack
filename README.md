@@ -14,6 +14,10 @@ https://api.aviationstack.com/v1/flights?access_key=YOUR_ACCESS_KEY
 
 Replace YOUR_ACCESS_KEY with your actual master key.
 
+## Live on Briefer 💚 now!
+
+[Demo link](https://app.briefer.cloud/workspaces/f69c155e-d2d2-41be-aff0-f202f938c15c/documents/35b041f3-b879-4f92-9991-b016168a0fa0/notebook?sidebarCollapsed=true)
+
 ## 🚫 Problem Statement:
 Obtain historical flight data and perform basic flight data processing and analysis.
 
